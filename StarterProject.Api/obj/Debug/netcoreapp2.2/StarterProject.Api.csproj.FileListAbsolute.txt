@@ -1,0 +1,14 @@
+C:\Users\laure\Desktop\285 Code\cmps285-s2019-group8\StarterProject.Api\bin\Debug\netcoreapp2.2\StarterProject.Api.deps.json
+C:\Users\laure\Desktop\285 Code\cmps285-s2019-group8\StarterProject.Api\bin\Debug\netcoreapp2.2\StarterProject.Api.runtimeconfig.json
+C:\Users\laure\Desktop\285 Code\cmps285-s2019-group8\StarterProject.Api\bin\Debug\netcoreapp2.2\StarterProject.Api.runtimeconfig.dev.json
+C:\Users\laure\Desktop\285 Code\cmps285-s2019-group8\StarterProject.Api\bin\Debug\netcoreapp2.2\StarterProject.Api.dll
+C:\Users\laure\Desktop\285 Code\cmps285-s2019-group8\StarterProject.Api\bin\Debug\netcoreapp2.2\StarterProject.Api.pdb
+C:\Users\laure\Desktop\285 Code\cmps285-s2019-group8\StarterProject.Api\obj\Debug\netcoreapp2.2\StarterProject.Api.csprojAssemblyReference.cache
+C:\Users\laure\Desktop\285 Code\cmps285-s2019-group8\StarterProject.Api\obj\Debug\netcoreapp2.2\StarterProject.Api.csproj.CoreCompileInputs.cache
+C:\Users\laure\Desktop\285 Code\cmps285-s2019-group8\StarterProject.Api\obj\Debug\netcoreapp2.2\StarterProject.Api.RazorAssemblyInfo.cache
+C:\Users\laure\Desktop\285 Code\cmps285-s2019-group8\StarterProject.Api\obj\Debug\netcoreapp2.2\StarterProject.Api.RazorAssemblyInfo.cs
+C:\Users\laure\Desktop\285 Code\cmps285-s2019-group8\StarterProject.Api\obj\Debug\netcoreapp2.2\StarterProject.Api.AssemblyInfoInputs.cache
+C:\Users\laure\Desktop\285 Code\cmps285-s2019-group8\StarterProject.Api\obj\Debug\netcoreapp2.2\StarterProject.Api.AssemblyInfo.cs
+C:\Users\laure\Desktop\285 Code\cmps285-s2019-group8\StarterProject.Api\obj\Debug\netcoreapp2.2\StarterProject.Api.RazorTargetAssemblyInfo.cache
+C:\Users\laure\Desktop\285 Code\cmps285-s2019-group8\StarterProject.Api\obj\Debug\netcoreapp2.2\StarterProject.Api.dll
+C:\Users\laure\Desktop\285 Code\cmps285-s2019-group8\StarterProject.Api\obj\Debug\netcoreapp2.2\StarterProject.Api.pdb
